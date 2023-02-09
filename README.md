@@ -1,7 +1,5 @@
 # Final_Project_AlgorithmicTrading_SmartContract - By: Abdoulaye Kane & Olagoke Michael Kupolati
 
-![image](https://user-images.githubusercontent.com/110797348/217721868-6bb7555b-6bb9-4f64-a4f3-dec990d1675d.png)
-
 Exploring ML Optimization Models &amp; Building a Smart Contract -Crowdsale/JS -
 
 Executive summary![image](https://user-images.githubusercontent.com/110797348/217720477-036b50f4-60c5-499d-a37a-66d92c1e35aa.png)
